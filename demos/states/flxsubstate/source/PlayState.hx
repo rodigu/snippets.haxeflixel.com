@@ -36,7 +36,7 @@ class PlayState extends FlxState
 
 		bgColor = 0;
 
-super.create();
+		super.create();
 	}
 
 	private function openSub():Void
@@ -91,7 +91,7 @@ class OtherState extends FlxSubState
 
 		bgColor = 0;
 
-super.create();
+		super.create();
 	}
 
 	private function closeSub():Void
